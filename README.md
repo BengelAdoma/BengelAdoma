@@ -11,3 +11,8 @@ Welcome to my profile, I'm Bengel Adoma but you can just call me Benny. I'm A fr
 -  Fun fact: ...
 ### What I Look Like
 ![alt text](IMG_9945.jpg)
+
+
+### Skills
+- html
+- 
