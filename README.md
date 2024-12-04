@@ -24,20 +24,30 @@ Welcome to my profile, I'm Bengel Adoma but you can just call me Benny. I'm A fr
 
   
 -CSS
+
+
   ![alt text](https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png)
 
   
 - Javascript
+
+  
   ![alt text](https://jbstechinfo.com/wp-content/uploads/2023/08/JavaScript-Symbol.png)
 
   
 - React
+
+
   ![alt text](https://www.patterns.dev/img/reactjs/react-logo@3x.svg)
 
   
 - NextJs
-![alt text]()
+
+
+![alt text](https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg)
 
 - MongoDB
+
+
   ![alt text](https://www.gtech.com.tr/wp-content/uploads/2020/09/mongodb-nedir-1.png)
   
