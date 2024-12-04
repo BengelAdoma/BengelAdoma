@@ -10,4 +10,4 @@ Welcome to my profile, I'm Bengel Adoma but you can just call me Benny. I'm A fr
 -  I’m looking to collaborate on numerous intriguing and revolutionary projects
 -  Fun fact: ...
 ### What I Look Like
-![alt text](image.jpg)
+![alt text](IMG_9945.jpg)
