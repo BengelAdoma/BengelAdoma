@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Description
+Welcome to my profile, I'm Bengel Adoma but you can just call me Benny. I'm A front-end developer.
 <!--
 **BengelAdoma/BengelAdoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
