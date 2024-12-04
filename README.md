@@ -13,3 +13,4 @@ Welcome to my profile, I'm Bengel Adoma but you can just call me Benny. I'm A fr
 
 ### Contact Me
 - email : bengelansah@gmail.com
+- number :+4917681485716
